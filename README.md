@@ -158,7 +158,7 @@ Using mysqldump for database migration
 Setting up secure VPC communication between EC2 and RDS
 
 ⭐ Author
-Avinash
+[Avinash D Zalke]
 ```
 
 ## 🔗 Connect with Me
