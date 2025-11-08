@@ -1,9 +1,8 @@
-# 💾 MYSQL-TO-RDS-MIGRATION-USING-EC2
+# 💾 DATABASE-MIGRATION-MYSQL-TO-RDS-USING-EC2
 
 **Author:** Avinash
 **Project Type:** AWS Cloud | Database Migration  
-**Version:** 1.1  
-**License:** MIT  
+
 
 ---
 
