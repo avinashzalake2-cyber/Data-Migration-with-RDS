@@ -161,5 +161,6 @@ Setting up secure VPC communication between EC2 and RDS
 Avinash
 ```
 
-- **LinkedIn:** [Prasad's LinkedIn]([https://www.linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/%F0%9D%99%B0%F0%9D%9A%9F%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%8A%F0%9D%9A%9C%F0%9D%9A%91-%F0%9D%9A%89%F0%9D%9A%8A%F0%9D%9A%95%F0%9D%9A%94%F0%9D%9A%8E-1884b024a/))  
-- **Email:** [fake@email.com](avinashzalake2@gmail.com) 
+[💼 LinkedIn]((https://www.linkedin.com/in/%F0%9D%99%B0%F0%9D%9A%9F%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%8A%F0%9D%9A%9C%F0%9D%9A%91-%F0%9D%9A%89%F0%9D%9A%8A%F0%9D%9A%95%F0%9D%9A%94%F0%9D%9A%8E-1884b024a/)) 
+• [✉️ Email](avinashzalake2@gmail.com) 
+• [🐙 GitHub](https://github.com/avinashzalake2-cyber) 
