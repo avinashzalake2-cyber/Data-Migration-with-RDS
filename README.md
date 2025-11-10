@@ -2,7 +2,7 @@
 
 **Author:** Avinash
 
-**Project Type:** AWS Cloud | Database Migration  
+**Project Type:** AWS Cloud | Database Migration |
 
 
 ---
